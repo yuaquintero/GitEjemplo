@@ -4,6 +4,8 @@ using namespace std;
 
 int main()
 {
+
+    cout<<"Este cambio esta en la nueva rama"<<endl;
     pelicula * raiz=nullptr; //crearmos un nodo vacio
     int opcion=1;
     string titulo, genero;
